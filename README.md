@@ -1,4 +1,4 @@
-faz O L
+faz o L
 ### **Olá**
 
 Meu nome é João Vitor 
